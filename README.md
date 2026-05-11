@@ -44,9 +44,10 @@ Este repositório documenta **testes de estresse e avaliações técnicas** do A
 | IA | Data | Nota Final | Link da Análise | Status |
 |----|------|------------|-----------------|--------|
 | **Qwen3.6** | Maio 2026 | ⭐ **9.8/10** | [📄 Ver análise](./Qwen3.6) | ✅ Concluída |
-| ChatGPT-4o | Em breve | - | *Aguardando* | 🔄 Pendente |
-| Claude 3.5 | Em breve | - | *Aguardando* | 🔄 Pendente |
-| Gemini 1.5 | Em breve | - | *Aguardando* | 🔄 Pendente |
+| **GLM-5.1**     | Maio 2026 | ⭐ **9.9/10** | [📄 Ver análise](./Z.AI-GLM-5.1) | ✅ Concluída |
+| ChatGPT     | Em breve | - | *Aguardando* | 🔄 Pendente |
+| Claude      | Em breve | - | *Aguardando* | 🔄 Pendente |
+| Gemini      | Em breve | - | *Aguardando* | 🔄 Pendente |
 
 > 💡 **Quer contribuir?** Envie um PR com avaliação de outra IA seguindo a mesma metodologia!
 
